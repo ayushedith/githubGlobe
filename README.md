@@ -2,7 +2,7 @@
 
 This is a GitHub Globe project built using Next.js. It provides a visual representation of GitHub user data on a 3D globe, allowing users to explore GitHub activity across the world.
 
-![GitHub Globe](link_to_image_here)
+GitHub Globe
 
 ## Features
 
@@ -18,13 +18,13 @@ To run this GitHub Globe project locally, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/github-globe-nextjs.git
+   git clone https://github.com/ayushedith/githubGlobe.git
    ```
 
 2. Navigate to the project directory:
 
    ```
-   cd github-globe-nextjs
+   cd githubGlobe
    ```
 
 3. Install dependencies:
@@ -61,5 +61,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgements
 
-- **Three.js:** Used for rendering the 3D globe.
+- **NextJS:** Used for rendering the 3D globe.
 - **GitHub API:** Provides user data for displaying on the globe.
